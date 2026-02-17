@@ -59,119 +59,119 @@ export default function PackagesPage() {
 
   {
     title: "Munnar Highland Reserve",
-    image: "/packages/munnar.webp",
+    image: "/Packages/munnar.webp",
     description:
       "Tea valley landscapes, national park visits, and elevated climate retreat experiences.",
   },
 
   {
     title: "Alleppey Private Houseboat Charter",
-    image: "/packages/alleppey.jpg",
+    image: "/Packages/alleppey.jpg",
     description:
       "Exclusive backwater cruise with onboard hospitality and curated dining options.",
   },
 
   {
     title: "Thekkady Wildlife & Spice Trail",
-    image: "/packages/thekkady.jpg",
+    image: "/Packages/thekkady.jpg",
     description:
       "Sanctuary boating experience with plantation visits and eco-tour coordination.",
   },
 
   {
     title: "Wayanad Forest & Waterfall Circuit",
-    image: "/packages/wayanad.jpg",
+    image: "/Packages/wayanad.jpg",
     description:
       "Highland terrain exploration with structured nature access and dam visits.",
   },
 
   {
     title: "Kochi Heritage & Trade Route Tour",
-    image: "/packages/kochi.jpg",
+    image: "/Packages/kochi.jpg",
     description:
       "Historic port city experience including colonial districts and maritime heritage.",
   },
 
   {
     title: "Kovalam – Varkala Coastal Retreat",
-    image: "/packages/kovalam.webp",
+    image: "/Packages/kovalam.webp",
     description:
       "Premium beach access programs with cliffside leisure and relaxation planning.",
   },
 
   {
     title: "Coorg Plantation Retreat",
-    image: "/packages/coorg.avif",
+    image: "/Packages/coorg.avif",
     description:
       "Coffee estate landscapes, waterfall visits, and structured eco-tour programs.",
   },
 
   {
     title: "Mysore Royal Heritage Tour",
-    image: "/packages/mysore.webp",
+    image: "/Packages/mysore.webp",
     description:
       "Palace architecture, hill temples, and illuminated garden experiences.",
   },
 
   {
     title: "Chikmagalur Mountain Expedition",
-    image: "/packages/chikmagalur.webp",
+    image: "/Packages/chikmagalur.webp",
     description:
       "Peak viewpoints, coffee trails, and scenic highland drives.",
   },
 
   {
     title: "Hampi UNESCO Heritage Circuit",
-    image: "/packages/14.webp",
+    image: "/Packages/14.webp",
     description:
       "World heritage ruins with guided monument access and architectural exploration.",
   },
 
   {
     title: "Bangalore Urban Signature Tour",
-    image: "/packages/3.jpg",
+    image: "/Packages/3.jpg",
     description:
       "Garden city highlights and landmark cultural institutions.",
   },
 
   {
     title: "Gokarna Coastal Serenity Program",
-    image: "/packages/12.jpg",
+    image: "/Packages/12.jpg",
     description:
       "Beach circuit with private transfer and leisure coordination.",
   },
 
   {
     title: "Goa – Coastal Leisure Executive Plan",
-    image: "/packages/13.jpg",
+    image: "/Packages/13.jpg",
     description:
       "Curated North & South Goa circuit including beach access, heritage churches, and private leisure scheduling.",
   },
 
   {
     title: "Andaman & Nicobar Premium Island Escape",
-    image: "/packages/20.webp",
+    image: "/Packages/20.webp",
     description:
       "Havelock Island, Radhanagar Beach, cellular heritage sites, and structured island transfers with marine experiences.",
   },
 
   {
     title: "Manali Alpine Retreat",
-    image: "/packages/22.avif",
+    image: "/Packages/22.avif",
     description:
       "Mountain valley landscapes, Solang Valley excursions, snow experience planning, and high-altitude leisure programs.",
   },
 
   {
     title: "Kashmir Signature Experience",
-    image: "/packages/15.webp",
+    image: "/Packages/15.webp",
     description:
       "Srinagar houseboat stay, Gulmarg meadow landscapes, Pahalgam valley retreat, and structured scenic mobility planning.",
   },
 
   {
     title: "Delhi Capital Heritage Circuit",
-    image: "/packages/21.png",
+    image: "/Packages/21.png",
     description:
       "Red Fort, India Gate, Qutub Minar, Rajpath axis, and Old Delhi cultural walk integrated into a professional urban itinerary.",
   },
