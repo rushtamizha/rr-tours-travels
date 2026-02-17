@@ -17,7 +17,7 @@ import GoldSparkleBackground from "../components/GoldSparkleBackground";
 export default function PackagesPage() {
   const  packages = [ {
     title: "Nilgiri Executive Circuit (Ooty – Coonoor – Kotagiri)",
-    image: "/Packages/1.webp",
+    image: "/Packages/nilgris.jpeg",
     description:
       "Strategic hill station itinerary covering scenic landscapes, heritage landmarks, tea estates, and curated leisure experiences.",
   },
