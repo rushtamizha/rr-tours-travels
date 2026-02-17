@@ -16,7 +16,7 @@ import GoldSparkleBackground from "../components/GoldSparkleBackground";
 export default function AboutPage() {
   const handleWhatsApp = () => {
     const msg =
-      "Hi, I want to know more about RR Tours & Stays packages in Ooty.";
+      "Hi, I want to know more about RR Tours & Stays packages";
     window.open(
       `https://wa.me/916380578937?text=${encodeURIComponent(msg)}`,
       "_blank",
