@@ -18,21 +18,21 @@ export default function PopularPackages() {
 
   {
     title: "Kodaikanal Premium Escape",
-    image: "/packages/kodaikanal.webp",
+    image: "/Packages/kodaikanal.webp",
     description:
       "Structured high-altitude retreat featuring lakefront experiences, nature trails, and signature viewpoints.",
   },
 
   {
     title: "Rameswaram Spiritual Corridor",
-    image: "/packages/rameswaram.jpg",
+    image: "/Packages/rameswaram.jpg",
     description:
       "Professionally coordinated pilgrimage program with temple access planning and coastal heritage visits.",
   },
 
   {
     title: "Madurai Heritage Immersion",
-    image: "/packages/madurai.jpg",
+    image: "/Packages/madurai.jpg",
     description:
       "Cultural architecture tour covering temple complexes and royal-era landmarks.",
   },
