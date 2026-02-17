@@ -21,7 +21,7 @@ export default function GoldSparkleBackground() {
         this.y = Math.random() * canvas.height;
         this.radius = Math.random() * 2;
         this.speedY = Math.random() * 0.25 + 0.2;
-        this.opacity = Math.random();
+        this.opacity = 0.2;
       }
 
       update() {
