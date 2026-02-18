@@ -94,9 +94,9 @@ export default function Footer() {
                 <Mail size={18} />
               </div>
 
-              <p className="text-white">jeyam.rrtours@gmail.com
+              <p className="text-white">info@rr-tours.com
                 <br/>
-                rr_tours_stays@myyahoo.com
+                jeyam.rrtours@gmail.com
               </p>
             </div>
           </div>
