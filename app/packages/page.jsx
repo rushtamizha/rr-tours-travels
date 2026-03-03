@@ -316,7 +316,7 @@ Hi, I'm interested in this package. Please share more details.
                     Budget Per Head : ₹{formData.budget}
                   </label>
                   <input type="range"
-                    min="1000"
+                    min="3000"
                     max="200000"
                     step="100"
                     value={formData.budget}
