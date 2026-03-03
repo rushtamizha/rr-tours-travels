@@ -313,7 +313,7 @@ Hi, I'm interested in this package. Please share more details.
 
                 <div>
                   <label className="text-white block mb-2">
-                    Budget: ₹{formData.budget}
+                    Budget Per Head : ₹{formData.budget}
                   </label>
                   <input type="range"
                     min="5000"
