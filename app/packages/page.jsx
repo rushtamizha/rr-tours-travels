@@ -316,9 +316,9 @@ Hi, I'm interested in this package. Please share more details.
                     Budget Per Head : ₹{formData.budget}
                   </label>
                   <input type="range"
-                    min="5000"
+                    min="1000"
                     max="200000"
-                    step="1000"
+                    step="100"
                     value={formData.budget}
                     onChange={(e)=>setFormData({...formData,budget:e.target.value})}
                     className="w-full accent-yellow-400" />
