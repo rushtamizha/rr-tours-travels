@@ -9,31 +9,74 @@ import "swiper/css";
 export default function Testimonials() {
   const reviews = [
     {
-      name: "Priya Sharma",
+      name: "Rajan T",
       location: "Bangalore",
       img: "/Testimonials/1.webp",
-      text: "Amazing family trip! Everything was perfectly organized. The car was clean and driver was very knowledgeable. Highly recommended!",
+      text: "We gone to pondicherry 🌴such a amazing tour trip with my friends . Stays and travel everything good & beach view . Camp fire with dj song + night vibe a🌚🔥 beautiful memories thanks for creating this memorable moments.Mr. Ram thanks for coordinating our team with full safe and romboo enjoy🥳🤩 panunom .. neenga guide panunathu nalla smooth ahh panuninga. Elame arrange panni kuduthinga . Nice kandipa next time tours ethuva irunthalum👍🏻 contact pandrom .Thank you RR tours and stays . 🤗",
       star:"★★★★★"
     },
     {
-      name: "Rahul Kumar",
+      name: "Anbu Venkat",
       location: "Chennai",
       img: "/Testimonials/2.webp",
-      text: "Best Ooty experience ever! Smooth booking process and premium service throughout the journey.",
+      text: "I am thoroughly satisfied with the high quality of service and the delightful itinerary. A perfectly organized tour that delivered on its promise of a rewarding experience.The entire experience was immensely gratifying and worth every cent. This tour was pure bliss from start to finish! Every moment was filled with joy, and it truly felt like a 100% happiness guarantee. Im still smiling from ear to ear—it was a flawless journey where fun was the top priority. I loved every single minute and walked away with nothing but amazing memories.",
        star:"★★★★★"
     },
     {
-      name: "Sneha Reddy",
+      name: "CRSVC sri",
       location: "Hyderabad",
       img: "/Testimonials/3.webp",
-      text: "Loved the trip planning and support. Truly professional travel team!",
+      text: "Nice experience ♥️",
        star:"★★★★★"
     },
     {
-      name: "Arjun Mehta",
-      location: "Mumbai",
+      name: "lavanya sivakumar",
+      location: "Chennai",
       img: "/Testimonials/4.webp",
-      text: "Fantastic arrangements and comfortable stay. Would book again!",
+      text: "It's good experience just explore page and just try it✨",
+       star:"★★★★★"
+    },
+    {
+      name: "Nandhini S",
+      location: "Nilgis",
+      img: "/Testimonials/1.webp",
+      text: "I am very very happy super 🫶❤️🫶❤️❤️❤️",
+       star:"★★★★★"
+    },{
+      name: "Ramani Jayakumar",
+      location: "Ooty",
+      img: "/Testimonials/2.webp",
+      text: "Chennai to Ooty package full enjoyment. We visit all  site scenes . We really excited . I can't explain with words .bus travel with friends , botanical garden ,hills , everything I enjoyed . Thank you for RR TOURS AND STAYS",
+       star:"★★★★★"
+    },{
+      name: "Evengeline jones",
+      location: "ooty",
+      img: "/Testimonials/3.webp",
+      text: "Booked a 3-day trip to Manali with RR Tours and stays. The communication was seamless from the start. Our guide was incredibly knowledgeable about the places. The car was clean and the AC was a lifesaver in the heat. My only minor gripe was that the hotel they picked was a bit far from the main market, but overall a 5-star experience. Highly recommended☺️",
+       star:"★★★★★"
+    },{
+      name: "arun nayagi",
+      location: "Coimabatore",
+      img: "/Testimonials/4.webp",
+      text: "Chennai to velanganni tour best travel and bus arrangements lightings and song vibes .good enjoyment with my family . RR TOURS AND STAYS nalla guide panunnaga safety ah pathukitanga . Nalarnthuchu thank you thambi . Kandipa next time ungakitatha tours ku kaepom☺️",
+       star:"★★★★★"
+    },{
+      name: "Parvathi suresh",
+      location: "Chennai",
+      img: "/Testimonials/1.webp",
+      text: "Temple tour nice trip .palani to guruvayur bus travel safe trip .good experience.thank you RR TOURS & STAYS 👍 …",
+       star:"★★★★★"
+    },{
+      name: "Manju prashanth",
+      location: "Nilgris",
+      img: "/Testimonials/2.webp",
+      text: "Thank you Mr. Ram and RR TOURS AND STAYS. your secure and safety are too good . Food arrangements are nice and service are good  . The near beach view are pleasant feel. We hope stays because of good hearted and Drhopable  persons like you . The vehicle are good and well maintained .you made it all  Budget friendly . Rooms are very good and big space . We asked many peoples but no one respond like u . Ur response are very good and kind . You arranged everything whatever we want and you gave many  ideas wherever we want to go . Thank you soo much for everything . 👍",
+       star:"★★★★★"
+    },{
+      name: "Vicky vicky",
+      location: "Oothy",
+      img: "/Testimonials/3.webp",
+      text: "Had a really great experience with RR Tours and Stays! Everything was well organized and smooth from start to finish. The vehicle was clean and comfortable, and the driver was very polite and friendly. They explained the places clearly and made sure we didn’t miss any important spots.The stay arrangement was also neat and budget-friendly. Totally worth the money. They handled everything professionally but in a very friendly way.Highly recommend RR Tours and Stays for the trips. Will definitely book again! 👍",
        star:"★★★★★"
     },
   ];
