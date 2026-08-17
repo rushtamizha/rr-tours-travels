@@ -24,7 +24,7 @@ export default function AboutPage() {
   };
 
   const handleCall = () => {
-    window.location.href = "tel:7904207365";
+    window.location.href = "tel:916380578937";
   };
 
   const services = [
