@@ -159,7 +159,7 @@ export default function Footer() {
 
           <ul className="space-y-2 text-amber-200/70">
             <li className="text-white">All tours rated 4.9/5 stars</li>
-            <li className="text-white">10+ Happy Customer</li>
+            <li className="text-white">1000+ Happy Customer</li>
             <li className="text-white">Certified Tour Operator</li>
           </ul>
         </div>
