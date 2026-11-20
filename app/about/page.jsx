@@ -275,8 +275,7 @@ Excellence is not optional — it is our operating principle
 
             {/* ADDRESS */}
             <div className="px-6 py-5 text-amber-200/80 text-sm border-t border-[#FFD700]/20">
-              📍 Ooty main road , Rajkumar Nagar , Ketti 
-                The Nilgiris - 643 215
+             Botanical, Garden Rd, Ooty, Tamil Nadu 643001
             </div>
           </div>
         </div>
