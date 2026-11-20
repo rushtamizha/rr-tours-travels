@@ -55,9 +55,7 @@ export default function Footer() {
               </div>
 
               <p className="text-white leading-relaxed">
-                Ooty main road , Rajkumar Nagar , Ketti 
-                <br/> 
-                The Nilgiris - 643 215
+               Botanical, Garden Rd, Ooty, Tamil Nadu 643001
               </p>
             </div>
 
